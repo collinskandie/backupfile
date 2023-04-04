@@ -10,5 +10,5 @@ copy and run the following commands:
 
 # python service.py install
 
-# net start MyService
+# net start DbBackup
 ```
